@@ -11,5 +11,6 @@ namespace EcomWeb.DB
         }
 
         public DbSet<Customer> customers { get; set; }
+        public DbSet<Employee> employees { get; set; }
     }
 }
