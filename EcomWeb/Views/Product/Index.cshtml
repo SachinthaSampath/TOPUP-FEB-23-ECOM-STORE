@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["title"] = "Products";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Qty</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var prd in Model){
+            <tr>
+                <th scope="row">@prd.ID</th>
+                <td>@prd.Name</td>
+                <td>@prd.Qty</td>
+                <td>@prd.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
