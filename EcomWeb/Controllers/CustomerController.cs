@@ -28,5 +28,21 @@ namespace EcomWeb.Controllers
         {
             return View();
         }
+
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Customer c)
+        {
+            this._db.customers.Add(c);
+            this._db.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }

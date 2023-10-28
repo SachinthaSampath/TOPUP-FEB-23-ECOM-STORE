@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7po0FRVa6cmgkXjV0zsFKxIou+aQ57XegP5GExtrZnxnD3T4271k3yyYBhr3uJxmLTfDZtx6B4VhLkr3tNm/fg==",
+  "dgSpecHash": "ZE578v+oudmDls65RrVMNEbdcwMtLsgnUMSscNrK5lX1XfAlqZlVPKpAARhpK778KxsI5bno5u06Hbb0lScmwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sachintha\\source\\repos\\Ecom\\EcomWeb\\EcomWeb.csproj",
+  "projectFilePath": "C:\\Users\\Sachintha\\Desktop\\TOPUP-FEB-23-ECOM-STORE\\EcomWeb\\EcomWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sachintha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Sachintha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,0 +1,23 @@
+﻿@model Customer
+
+<form method="post" asp-action="Create">
+    <div class="my-2">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name"/>
+    </div>
+    <div class="my-2">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email"/>
+    </div>
+    <div class="my-2">
+        <label asp-for="Address">Address</label>
+        <input asp-for="Address" />
+    </div>
+    <div class="my-2">
+        <label asp-for="Telephone">Telephone</label>
+        <input asp-for="Telephone" />
+    </div>
+    <div>
+        <button type="submit">Create</button>
+    </div>
+</form>

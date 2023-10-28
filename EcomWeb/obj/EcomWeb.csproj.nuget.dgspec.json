@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sachintha\\source\\repos\\Ecom\\EcomWeb\\EcomWeb.csproj": {}
+    "C:\\Users\\Sachintha\\Desktop\\TOPUP-FEB-23-ECOM-STORE\\EcomWeb\\EcomWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sachintha\\source\\repos\\Ecom\\EcomWeb\\EcomWeb.csproj": {
+    "C:\\Users\\Sachintha\\Desktop\\TOPUP-FEB-23-ECOM-STORE\\EcomWeb\\EcomWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sachintha\\source\\repos\\Ecom\\EcomWeb\\EcomWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Sachintha\\Desktop\\TOPUP-FEB-23-ECOM-STORE\\EcomWeb\\EcomWeb.csproj",
         "projectName": "EcomWeb",
-        "projectPath": "C:\\Users\\Sachintha\\source\\repos\\Ecom\\EcomWeb\\EcomWeb.csproj",
+        "projectPath": "C:\\Users\\Sachintha\\Desktop\\TOPUP-FEB-23-ECOM-STORE\\EcomWeb\\EcomWeb.csproj",
         "packagesPath": "C:\\Users\\Sachintha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sachintha\\source\\repos\\Ecom\\EcomWeb\\obj\\",
+        "outputPath": "C:\\Users\\Sachintha\\Desktop\\TOPUP-FEB-23-ECOM-STORE\\EcomWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
